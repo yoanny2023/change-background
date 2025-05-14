@@ -1,4 +1,13 @@
 # Altera fundo
+![Tamanho do repositorio](https://img.shields.io/github/repo-size/yoanny2023/change-background?style=plastic&label=Tamanho&color=%2300ff00
+)
+![Total Issues](https://img.shields.io/github/issues-raw/yoanny2023/change-background?style=plastic&label=Open%20Issues&color=%230000ff
+)
+![Pull Request](https://img.shields.io/github/issues-pr/yoanny2023/change-background?style=plastic&label=Pull%20Request&color=%2300ff00
+)
+![License](https://img.shields.io/github/license/yoanny2023/change-background?style=plastic&label=License&color=%230000ff
+)
+
 <p align="center">
  <img src="./imagens/main_page.JPG" alt="tela inicial" width="400px" />
  <img src="./imagens/capa_inicial.gif" alt="aplicacao funcionando" width="400px" />
