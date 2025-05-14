@@ -1,4 +1,6 @@
 # Altera fundo
+![Tela inicial](./imagens/main_page.JPG)
+![Tela inicial](./imagens/capa_inicial.gif)
 
 ## O que é este projeto
 Este projeto é uma página feita com HTML, CSS, e Javascript que contém uma série
@@ -18,7 +20,7 @@ Uma vez que a aplicaçao esteja rodando, voce pode clicar nos circulos coloridos
 - CSS
 - Javascript
 
-## Features dp projeto
+## Features do projeto
 - 5 botões com cores diferentes, que alteram a cor de fundo da pagina
 - 1 botão para resetar a cor padrão da tela
 - subtítulo que é atualizado de acordo com a cor atual da página
