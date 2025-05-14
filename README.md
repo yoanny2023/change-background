@@ -4,6 +4,8 @@
  <img src="./imagens/capa_inicial.gif" width="400px" />
 </p>
 
+https://github.com/user-attachments/assets/73aed4d5-40d5-4f67-a713-74913b7e08e6
+
 ## O que é este projeto
 Este projeto é uma página feita com HTML, CSS, e Javascript que contém uma série
 de botões coloridos, para que a pessoa que esteja utilizando a aplicação possa alterar 
