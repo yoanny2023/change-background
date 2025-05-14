@@ -65,5 +65,9 @@ voce pode contactar Yoanny *coordenador do projeto* em email2025@ymail.com ou en
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoanny-vasco-358399132/)
 
+-------------
+<p align="center">Feito com ☕ por Yoanny</p>
+
+
  
 
