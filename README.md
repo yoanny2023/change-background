@@ -1,6 +1,8 @@
 # Altera fundo
-![Tela inicial](./imagens/main_page.JPG)
-![Tela inicial](./imagens/capa_inicial.gif)
+<p align="center">
+ <img src="./imagens/main_page.JPG" width="400px" />
+ <img src="./imagens/capa_inicial.gif" width="400px" />
+</p>
 
 ## O que é este projeto
 Este projeto é uma página feita com HTML, CSS, e Javascript que contém uma série
